@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tunç 👋
 
-<!--
-**Tunc-01/Tunc-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Maltepe University  
+💻 Programming Languages: Python, Java, C  
+🛠 Tools: VS Code, PyCharm, IntelliJ IDEA  
+📊 Interested in Finance, Financial Markets and Technology  
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineering student interested in software development and technology.  
+I also have a strong interest in finance, financial markets, and the intersection of software and finance.
+
+Currently improving my programming skills and working on personal coding projects.
+
+## Projects
+
+- Python Calculator
