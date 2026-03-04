@@ -18,3 +18,4 @@ Currently improving my programming skills and working on personal coding project
 - stock-price-tracker
 - todo-list-app
 - personal-finance-tracker
+- investment-analyzer
