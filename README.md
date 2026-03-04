@@ -15,3 +15,4 @@ Currently improving my programming skills and working on personal coding project
 ## Projects
 
 - Python Calculator
+- stock-price-tracker
