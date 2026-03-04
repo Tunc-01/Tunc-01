@@ -19,3 +19,4 @@ Currently improving my programming skills and working on personal coding project
 - todo-list-app
 - personal-finance-tracker
 - investment-analyzer
+- matrix-calculator
