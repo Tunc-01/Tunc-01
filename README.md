@@ -17,3 +17,4 @@ Currently improving my programming skills and working on personal coding project
 - Python Calculator
 - stock-price-tracker
 - todo-list-app
+- personal-finance-tracker
