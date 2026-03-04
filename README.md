@@ -20,3 +20,4 @@ Currently improving my programming skills and working on personal coding project
 - personal-finance-tracker
 - investment-analyzer
 - matrix-calculator
+- algorithm-visualizer
